@@ -1,5 +1,5 @@
 ![Alt text](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
-
+![AI Development](https://private-user-images.githubusercontent.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif)
 <h1 align="center">🏆 SportNavi.de AI Innovation Lab</h1>
 <h3 align="center">Building the Future of Sports & Wellness through AI | Development Hub for Smart Solutions 🚀</h3>
 
